@@ -13,3 +13,7 @@ Can have a high learning curve and the approach can actually waste time with too
 Can reduce the focus on the long term goal and cause the programmers to focus too much on making small changes each sprint.
 
 
+
+b: The scrum master is focusing more on the actual scrum tasks, like the Jira tooling, setting up meetings and sprints, and facilitating standups. The product owner is focused more on the long term, and they set the direction for the team and handle the release and product management.
+
+
