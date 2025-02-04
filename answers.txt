@@ -28,3 +28,17 @@ Daily Scrum: These are quick meetings to discuss progress. Plans for the day and
 
 Sprint Retrospective Meeting: Here, the work completed during the sprint is discussed. Additionally, the incomplete work will be moved to the backlog.
 
+
+
+d: Epic: A large goal that can contain many stories. Generally will represent a large design effort.
+
+Story: A smaller goal that falls under an epic. Can generally be finished easily and represents a smaller portion of work.
+
+ 
+
+Task: A task is a unit of work that must be completed to finish a backlog item. Tasks get assigned to stories.
+
+ 
+
+Bug: the smallest unit of work in JIRA. can be connected to a story or task as a “blocker.”
+
