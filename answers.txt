@@ -1,1 +1,15 @@
+a: Pros: 
+
+Constant communication with the customer/shareholder
+
+Can release incremental deliverables with each sprint
+
+ 
+
+Cons: 
+
+Can have a high learning curve and the approach can actually waste time with too many meetings.
+
+Can reduce the focus on the long term goal and cause the programmers to focus too much on making small changes each sprint.
+
 
