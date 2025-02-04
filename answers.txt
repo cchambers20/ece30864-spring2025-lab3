@@ -17,3 +17,14 @@ Can reduce the focus on the long term goal and cause the programmers to focus to
 b: The scrum master is focusing more on the actual scrum tasks, like the Jira tooling, setting up meetings and sprints, and facilitating standups. The product owner is focused more on the long term, and they set the direction for the team and handle the release and product management.
 
 
+
+c: Sprint Planning: Here, issues are picked from the backlog and added to the current spring. Additionally, story points will be assgined to each so that proper workloads can be estimated.
+
+
+
+Daily Scrum: These are quick meetings to discuss progress. Plans for the day and any blockers can also be discussed.
+
+
+
+Sprint Retrospective Meeting: Here, the work completed during the sprint is discussed. Additionally, the incomplete work will be moved to the backlog.
+
